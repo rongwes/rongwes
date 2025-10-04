@@ -29,10 +29,11 @@
 
 ## 🌍 Projects  
 
-🔹 **Traveller Planner - ExploreMore** → A trip planning web app that simplifies the travel planning process, offering users everything they need in one place.
+🔹 **Traveller Planner - ExploreMore** → A trip planning web app that simplifies the travel planning process,<br>offering users everything they need in one place.  
 🔹 **Blood Bank Management System** → Software solution designed to streamline and automate the operations of a blood bank.  
 🔹 **Assembly Programs (PIC16F84)** → Low-level MPLAB projects for counting, times tables & PORTB output.  
-🔹 **Personal Tech Portfolio** *(in progress)*  
+🔹 **Personal Tech Portfolio** *(in progress)* 
+
 
 ---
 
