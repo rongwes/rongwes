@@ -8,21 +8,22 @@
 
 ## 🔧 Tech Stack & Skills  
 
-![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)  
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)  
-![Java](https://img.shields.io/badge/-Java-orange?style=flat&logo=java)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)  
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)  
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c) 
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B) 
+![Java](https://img.shields.io/badge/-Java-orange?style=flat&logo=java) 
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python) 
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript) 
 ![Assembly](https://img.shields.io/badge/-Assembly-lightgrey?style=flat)  
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)  
-![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js)  
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react) 
+![Next.js](https://img.shields.io/badge/-Next.js-black?style=flat&logo=next.js) 
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css) 
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)  
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb)  
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb) 
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql) 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)  
-![Networking](https://img.shields.io/badge/-Networking-blue?style=flat&logo=cisco)  
-![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-black?style=flat&logo=security)  
+![Networking](https://img.shields.io/badge/-Networking-blue?style=flat&logo=cisco) 
+![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-black?style=flat&logo=security)
+ 
 
 ---
 
