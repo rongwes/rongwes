@@ -32,6 +32,7 @@
 🔹 **Traveller Planner - ExploreMore** → A trip planning web app that simplifies the travel planning process,<br>    offering users everything they need in one place.  
 🔹 **Blood Bank Management System** → Software solution designed to streamline and automate the operations of a blood bank.  
 🔹 **Assembly Programs (PIC16F84)** → Low-level MPLAB projects for counting, times tables & PORTB output.  
+🔹 **Individual Computer Networks Project** *(in progress)* 
 🔹 **Personal Tech Portfolio** *(in progress)* 
 
 
@@ -71,5 +72,5 @@
 
 ---
 
-✨ *“Education is the movement from darkness to light — and technology is the torch I carry forward.”*  
+✨ *“Education is the movement from darkness to light - and technology is the torch I carry forward.”*  
 
