@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Morongwe Molaba  
 
 🎓 Final-year Computer Science student at **North-West University (NWU)**  
-💻 Aspiring **Software & Network Engineer** | Passionate about **Cybersecurity & Robotics**  
+💻 Aspiring **Software & Network Engineer** | Also passionate about **Cybersecurity & Robotics**  
 🚀 Strong believer in **continuous learning, problem-solving and using technology to make a positive impact**  
 
 ---
