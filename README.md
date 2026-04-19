@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Morongwe Molaba  
 
-🎓 Final-year Computer Science student at **North-West University (NWU)**  
-💻 Aspiring **Software & Network Engineer** | Also passionate about **Cybersecurity & Robotics**  
+🎓 Honours in Computer Science student at **North-West University (NWU)**  
+💻 Aspiring **Cybersecurity Engineer** | Also passionate about **Robotics**  
 🚀 Strong believer in **continuous learning, problem-solving and using technology to make a positive impact**  
 
 ---
@@ -32,7 +32,7 @@
 🔹 **Traveller Planner - ExploreMore** → A trip planning web app that simplifies the travel planning process,<br>    offering users everything they need in one place.  
 🔹 **Blood Bank Management System** → Software solution designed to streamline and automate the operations of a blood bank.  
 🔹 **Assembly Programs (PIC16F84)** → Low-level MPLAB projects for counting, times tables & PORTB output.  
-🔹 **Individual Computer Networks Project** *(in progress)* 
+🔹 **Individual Computer Networks Project** → Design and simulation of 6 network topologies (Bus, Mesh, Star, Ring, Extended Star, Hybrid) in Cisco Packet Tracer 
 🔹 **Personal Tech Portfolio** *(in progress)* 
 
 
@@ -50,8 +50,7 @@
 
 📡 **Network Engineering** (Devices, Configuration, Addressing, Troubleshooting, Support, Security)  
 🛡️ **Cybersecurity** (Offensive Security, Ethical Hacking, Red Teaming)  
-🤖 **AI & Robotics** (Exploration projects)  
-🌐 **Full-Stack Development**  
+🤖 **AI & Robotics** (Exploration projects)    
 
 ---
 
@@ -69,8 +68,9 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/morongwe-molaba-a20635309)  
 [![Email](https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail)](mailto:morongwemolaba@gmail.com)  
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme)](https://tryhackme.com/p/morongwemolaba)
 
 ---
 
-✨ *“Education is the movement from darkness to light - and technology is the torch I carry forward.”*  
+✨ *“Education is the movement from darkness to light and technology is the torch I carry forward.”*  
 
